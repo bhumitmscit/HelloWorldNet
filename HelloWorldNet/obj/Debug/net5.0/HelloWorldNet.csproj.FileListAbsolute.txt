@@ -1,0 +1,16 @@
+F:\Assignment\HelloWorldNet\HelloWorldNet\bin\Debug\net5.0\HelloWorldNet.exe
+F:\Assignment\HelloWorldNet\HelloWorldNet\bin\Debug\net5.0\HelloWorldNet.deps.json
+F:\Assignment\HelloWorldNet\HelloWorldNet\bin\Debug\net5.0\HelloWorldNet.runtimeconfig.json
+F:\Assignment\HelloWorldNet\HelloWorldNet\bin\Debug\net5.0\HelloWorldNet.runtimeconfig.dev.json
+F:\Assignment\HelloWorldNet\HelloWorldNet\bin\Debug\net5.0\HelloWorldNet.dll
+F:\Assignment\HelloWorldNet\HelloWorldNet\bin\Debug\net5.0\ref\HelloWorldNet.dll
+F:\Assignment\HelloWorldNet\HelloWorldNet\bin\Debug\net5.0\HelloWorldNet.pdb
+F:\Assignment\HelloWorldNet\HelloWorldNet\obj\Debug\net5.0\HelloWorldNet.csproj.AssemblyReference.cache
+F:\Assignment\HelloWorldNet\HelloWorldNet\obj\Debug\net5.0\HelloWorldNet.GeneratedMSBuildEditorConfig.editorconfig
+F:\Assignment\HelloWorldNet\HelloWorldNet\obj\Debug\net5.0\HelloWorldNet.AssemblyInfoInputs.cache
+F:\Assignment\HelloWorldNet\HelloWorldNet\obj\Debug\net5.0\HelloWorldNet.AssemblyInfo.cs
+F:\Assignment\HelloWorldNet\HelloWorldNet\obj\Debug\net5.0\HelloWorldNet.csproj.CoreCompileInputs.cache
+F:\Assignment\HelloWorldNet\HelloWorldNet\obj\Debug\net5.0\HelloWorldNet.dll
+F:\Assignment\HelloWorldNet\HelloWorldNet\obj\Debug\net5.0\ref\HelloWorldNet.dll
+F:\Assignment\HelloWorldNet\HelloWorldNet\obj\Debug\net5.0\HelloWorldNet.pdb
+F:\Assignment\HelloWorldNet\HelloWorldNet\obj\Debug\net5.0\HelloWorldNet.genruntimeconfig.cache
